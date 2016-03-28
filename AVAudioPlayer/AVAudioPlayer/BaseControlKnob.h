@@ -14,5 +14,13 @@
 @property (nonatomic, assign) float minValue;
 @property (nonatomic, assign) float value;
 
+@end
+
+
+@interface GreenControlKnob : BaseControlKnob
+
+@end
+
+@interface OrangeControlKnob : BaseControlKnob
 
 @end
